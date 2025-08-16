@@ -11,18 +11,18 @@ It includes interactive dashboards (with demo videos), SQL queries for deeper an
 ### 1. Overview Analysis Dashboard
 Provides a high-level summary of the election results including total seats, party-wise distribution, and alliances performance.  
 
-🎥 [Watch Video](Overview_Dashboard/video.mp4)  
+🎥 [Watch Video][Overview analysis.mp4]
 🖼️ Dashboard Preview:  
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](E Overview A .png)
 
 ---
 
 ### 2. State Demographic Analysis
 Shows state-wise and demographic breakdown of results with voter turnout insights and candidate performance.  
 
-🎥 [Watch Video](State_Demographics/video.mp4)  
+🎥 [Watch Video](State Demographics Analysis.mp4)  
 🖼️ Dashboard Preview:  
-![State Demographics](images/state_demo.png)
+![State Demographics](E State demographic.png)
 
 ---
 
