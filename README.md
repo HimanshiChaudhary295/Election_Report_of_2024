@@ -11,9 +11,9 @@ It includes interactive dashboards (with demo videos), SQL queries for deeper an
 ### 1. Overview Analysis Dashboard
 Provides a high-level summary of the election results including total seats, party-wise distribution, and alliances performance.  
 
-🎥 [Watch Video][Overview analysis.mp4]
+🎥 [Watch Video][Overview_analysis.mp4]
 🖼️ Dashboard Preview:  
-![Overview Dashboard](E Overview A .png)
+![Overview Dashboard](E_Overview_A.png)
 
 ---
 
