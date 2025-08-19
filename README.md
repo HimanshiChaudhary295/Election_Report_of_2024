@@ -20,9 +20,9 @@ Provides a high-level summary of the election results including total seats, par
 ### 2. State Demographic Analysis
 Shows state-wise and demographic breakdown of results with voter turnout insights and candidate performance.  
 
-🎥 [Watch Video](State Demographics Analysis.mp4)  
+🎥 [Watch Video](State_Demographics_Analysis.mp4)  
 🖼️ Dashboard Preview:  
-![State Demographics](E State demographic.png)
+![State Demographics](E_State_demographic.png)
 
 ---
 
