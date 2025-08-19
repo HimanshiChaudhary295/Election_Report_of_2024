@@ -29,18 +29,18 @@ Shows state-wise and demographic breakdown of results with voter turnout insight
 ### 3. Political Landscape Analysis
 Highlights state-level performance by parties, seat share, and includes slicers for interactive filtering.  
 
-🎥 [Watch Video](Political_Landscape/video.mp4)  
+🎥 [Watch Video](Political_Landscape.mp4)  
 🖼️ Dashboard Preview:  
-![Political Landscape](images/political.png)
+![Political Landscape](E_Landscap_a.png)
 
 ---
 
 ### 4. Constituency Analysis
 Provides candidate-level insights including winning candidate, runner-up, and second runner-up with vote margins.  
 
-🎥 [Watch Video](Constituency_Analysis/video.mp4)  
+🎥 [Watch Video](Constituency_Analysis.mp4)  
 🖼️ Dashboard Preview:  
-![Constituency Analysis](images/constituency.png)
+![Constituency Analysis](E_Constituency_a.png)
 
 ---
 
