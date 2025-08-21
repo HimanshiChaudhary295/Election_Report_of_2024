@@ -55,7 +55,7 @@ A collection of SQL queries used for analyzing election data such as:
 - Candidate-level analysis  
 - EVM vs Postal vote breakdown  
 
-📂 [View SQL Queries](SQL_Queries_Modified.pdf)  
+📂 [View SQL Queries](SQL_Queries.pdf)  
 
 ---
 
