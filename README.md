@@ -55,17 +55,17 @@ A collection of SQL queries used for analyzing election data such as:
 - Candidate-level analysis  
 - EVM vs Postal vote breakdown  
 
-📂 [View SQL Queries](SQL_Queries_Modified.docx)  
+📂 [View SQL Queries](SQL_Queries_Modified.pdf)  
 
 ---
 
 ## 📑 Dataset
 The original Excel dataset used for cleaning and Power BI modeling is also included in this repository.  
 
-📂 [Constituencywise_details (Excel)](constituencywise_details.csv)  
-[constituencywise_results (Excel)](constituencywise_results.csv)
-[partywise_result (Excel)](partywise_results.csv)
-[states (Excel)](states.csv)
+📂 [Constituencywise_details (Excel)](constituencywise_details.csv),   
+[constituencywise_results (Excel)](constituencywise_results.csv), 
+[partywise_result (Excel)](partywise_results.csv), 
+[states (Excel)](states.csv), 
 [statewise_results (Excel)](statewise_results.csv) 
 
 ---
