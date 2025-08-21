@@ -1,6 +1,10 @@
 # Election_Report_of_2024
 # 🇮🇳 Power BI Report – Indian Elections 2024
 
+<p align="center">
+  <img src="E_Front_Page.png" alt="Election Report 2024 Front Page" width="800">
+</p>
+
 This repository presents a **comprehensive analysis of the Indian General Election Results 2024** using **Power BI, SQL, and Excel**.  
 It includes interactive dashboards (with demo videos), SQL queries for deeper analysis, and the dataset used to build the report.
 
@@ -51,14 +55,18 @@ A collection of SQL queries used for analyzing election data such as:
 - Candidate-level analysis  
 - EVM vs Postal vote breakdown  
 
-📂 [View SQL Queries](SQL%20Queries.docx)  
+📂 [View SQL Queries](SQL_Queries.pdf)  
 
 ---
 
 ## 📑 Dataset
 The original Excel dataset used for cleaning and Power BI modeling is also included in this repository.  
 
-📂 [Election Data (Excel)](data/election_data.xlsx)  
+📂 [Constituencywise_details (Excel)](constituencywise_details.csv)  
+[constituencywise_results (Excel)](constituencywise_results.csv)
+[partywise_result (Excel)](partywise_results.csv)
+[states (Excel)](states.csv)
+[statewise_results (Excel)](statewise_results.csv) 
 
 ---
 
@@ -81,4 +89,4 @@ The original Excel dataset used for cleaning and Power BI modeling is also inclu
 I’m **Himanshi Chaudhary**, a BBA student passionate about **Finance, Business Intelligence, and Data Analytics**.  
 Through this project, I combined my skills in **Excel, SQL, and Power BI** to analyze real-world election data and build meaningful insights.  
 
-🔗 [LinkedIn](https://linkedin.com) | 📧 chaudharyhimanshi29@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/himanshi-chaudhary-200985313/) | 📧 chaudharyhimanshi29@gmail.com
